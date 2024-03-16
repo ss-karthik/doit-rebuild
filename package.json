@@ -1,0 +1,15 @@
+{
+  "name": "doit-rebuild",
+  "version": "1.0.0",
+  "description": "A total rebuild of the DoIt Project. Basically an un-spaghettification of my code. No promises that it'll be less messy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
